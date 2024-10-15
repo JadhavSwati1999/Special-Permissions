@@ -45,7 +45,7 @@ chmod 775 /dir
 chmod g+s 
 ```
 
-## Sticky Bit
+## Sticky Bit.
 
 This is used for safety purposes so that one user cannot delete another user's file in a group.
 
