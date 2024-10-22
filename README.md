@@ -5,7 +5,7 @@
 In Linux, special permissions **add an extra layer of control to file and directory access**. These permissions—Sticky Bit, SetGID (Set Group ID), and SetUID (Set User ID)—introduce unique functionalities to enhance security and manage file execution.
 
 
-## SUID(Set User ID)
+## SUID(Set User ID).
 
 This permission is used when a local user tries to set a date or try to add a user &so on & then he gets an error called permission denied.
 
