@@ -30,8 +30,8 @@ SGID, which stands for **Set Group ID**, is another special permission that can
 5. Check whether the users are added to the group or not
 6. Create a directory
 7. Give the directory permission
-8. Create a file through the users inside the directory
-9.  Give the group access to the directory 
+8. Create a file through the users inside the directory.
+9.  Give the group access to the directory.
 10. Assign special permissions to the group 
 
 ```jsx
