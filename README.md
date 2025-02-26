@@ -11,7 +11,7 @@ This permission is used when a local user tries to set a date or try to add a us
 
 Then in that case we give users the permissions so that they can access.
 
-### Steps
+### Steps.
 
 1.  which dmidecode
 2. chmod u+s path
