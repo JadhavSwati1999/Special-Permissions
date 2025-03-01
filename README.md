@@ -17,7 +17,7 @@ Then in that case we give users the permissions so that they can access.
 2. chmod u+s path
 3. Then log in through the user and check you will get permission to access for the given permission. 
 
-## SGID(Set Group ID)
+## SGID(Set Group ID) 
 
 SGID, which stands for **Set Group ID**, is another special permission that can be applied to executable files and directories. When an executable file has the SGID permission enabled, users who execute the file temporarily assume the group ownership of the file.
 
